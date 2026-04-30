@@ -1,4 +1,0 @@
-1|Alyan Hussain|3.9
-2|Ali|4
-1|Abdullah|3.9
-1|Abd|3.9
