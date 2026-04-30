@@ -1,0 +1,5 @@
+ID: 1 | Name: Abdullah | GPA: 4
+ID: 2 | Name: Anas | GPA: 4
+ID: 3 | Name: Yousuf | GPA: 4
+ID: 4 | Name: Alyan | GPA: 3
+ID: 5 | Name: Tahir | GPA: 3.5
